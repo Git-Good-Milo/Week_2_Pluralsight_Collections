@@ -1,0 +1,11 @@
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.vbprojAssemblyReference.cache
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.Resources.resources
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.vbproj.GenerateResource.cache
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.vbproj.CoreCompileInputs.cache
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\bin\Debug\LINQMethods.exe.config
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\bin\Debug\LINQMethods.exe
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\bin\Debug\LINQMethods.pdb
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\bin\Debug\LINQMethods.xml
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.exe
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.xml
+C:\Users\miloe\code\learning_vb_net\utilising_visual_basic_collections\LINQMethods\obj\Debug\LINQMethods.pdb

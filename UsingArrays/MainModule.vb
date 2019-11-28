@@ -9,7 +9,28 @@
         Main2()
         Main3()
 
+        ' This function creates a dictionary called LoadProducts
         Dim products = LoadProducts()
+
+        Console.WriteLine(products(1))
+        Console.WriteLine(products(2))
+        Console.WriteLine(products(3))
+
+        ' You can use the <ContainsKey> to see if an item with a specific key exists in the dictionary
+        ' It returns either true or false
+        Console.WriteLine(products.ContainsKey(1))
+        Console.WriteLine(products.ContainsKey(55))
+
+        ' Display the total number of items in a dictionasry
+        Console.WriteLine(products.Count)
+
+        ' Removes an item from a list using the kwy value
+        products.Remove(1)
+        Console.WriteLine(products.Count)
+
+        ' Removes All items
+        products.Clear()
+        Console.WriteLine(products.Count)
 
         Console.ReadKey()
     End Sub
